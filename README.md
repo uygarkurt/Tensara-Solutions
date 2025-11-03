@@ -1,0 +1,1 @@
+# My solutions to Tensara, competitive GPU kernel optimization platform. Currently only with CUDA. More to come.
