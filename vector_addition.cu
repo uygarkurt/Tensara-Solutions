@@ -1,4 +1,4 @@
-//YouTube Tutorial: https://youtu.be/yzq5zlR3Y1c
+// YouTube Tutorial: https://youtu.be/yzq5zlR3Y1c
 
 #include <cuda_runtime.h>
 
