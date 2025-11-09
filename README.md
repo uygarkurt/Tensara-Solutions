@@ -1,1 +1,5 @@
-# My solutions to Tensara, competitive GPU kernel optimization platform. Currently only with CUDA. More to come. 
+# Tensara GPU Programming Solutions
+
+Currently, I only did the CUDA solutions. My explanation for the solutions below.
+
+- 📹 Vector Addition: https://www.youtube.com/watch?v=yzq5zlR3Y1c
