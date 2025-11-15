@@ -1,3 +1,5 @@
+// YouTube Tutorial: https://www.youtube.com/watch?v=zbmg-K7dJUE
+
 #include <cuda_runtime.h>
 
 __global__ void hinge_loss(const float* predictions, const float* targets, float* output, const size_t n){

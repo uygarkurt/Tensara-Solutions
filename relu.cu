@@ -1,3 +1,5 @@
+// YouTube Tutorial: https://www.youtube.com/watch?v=T8qUbxYj0-Y
+
 #include <cuda_runtime.h>
 
 __global__ void relu(const float* input, float* output, const size_t n, const size_t m){
